@@ -1,7 +1,6 @@
 # .gitignore
 # file 명
 # directory/ 
-pima-indians-diabetes.csv
 train.csv
 labeledTrainData.tsv
 
