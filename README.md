@@ -7,33 +7,8 @@
 - 머신 러닝 / 딥러닝 V
 - 실무 프로젝트
 
-## 01_introduction 
-- iris data
-- wine data
-- titanic data
-- pima indians data
-- modelselection
-- preprocessing
-- assesement
-- GridSearchCV
 
-## 02_Classification
-- Decision Tree
-- SVM
-- Ensemble
-- RadnomForest
-- KNN
-
-## 03_Regression
-- simple linear regression
-- simple linear regression_diabetes_model_evaluation(r2,mean_Squared_error,scatter_graph)
-- boston data
-
-## 04_PCA
- - PCA
- - wine data
- - breast-cancer data
- 
-## 05_Clustering
-- kmeans
-- shilhouette analysis 
+<딥러닝>
+## 01_BasicModel
+- ThoraicSurgery
+- pimaIndian
