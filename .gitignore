@@ -1,8 +1,7 @@
 # .gitignore
 # file 명
 # directory/ 
-train.csv
-labeledTrainData.tsv
+model
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
