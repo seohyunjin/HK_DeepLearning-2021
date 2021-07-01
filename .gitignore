@@ -3,6 +3,8 @@
 # directory/ 
 model
 images
+handwriting_shape
+hard_handwriting_shape
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
