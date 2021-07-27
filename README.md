@@ -8,7 +8,7 @@
 - 실무 프로젝트
 
 
-<Deep Learning>
+### <Deep Learning>
   
 ## 01_BasicModel
 - ThoraicSurgery
