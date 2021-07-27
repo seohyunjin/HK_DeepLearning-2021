@@ -8,7 +8,8 @@
 - 실무 프로젝트
 
 
-<딥러닝>
+<Deep Learning>
+  
 ## 01_BasicModel
 - ThoraicSurgery
 - pimaIndian
