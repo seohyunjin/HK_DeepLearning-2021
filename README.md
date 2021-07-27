@@ -12,3 +12,37 @@
 ## 01_BasicModel
 - ThoraicSurgery
 - pimaIndian
+- iris
+- wine
+- boston
+
+## 02_CNN
+- MNIST_DNN
+- MINIST_CNN
+- Fashion_MNIST_CNN
+- OpenCV
+- Cifar10
+- Cifar-100
+- Cifar-10_DataAugmentation
+- VGGNet
+- Polygon_Classification
+- RESNet
+- ImageApplication
+- Dogs & Cats
+- ImageApllication Ensemble
+
+## 03_OpenAPI
+- KAKAO Translation
+- OpenAPI
+- Stock price prediction
+
+## 04_RNN
+- SineWave
+- TextGeneration_simpeRNN
+- TextGeneration_LSTM
+- TextGeneration_GRU
+- Spam_RNN
+- ReuterNews_LSTM
+- IMDB_Conv1D_LSTM
+- IMDB_LSTM
+- NAVER_MOVIE Sentimental Analysis_LSTM
